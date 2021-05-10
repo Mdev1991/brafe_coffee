@@ -1,2 +1,2 @@
 # brafe_coffee
-HTML, CSS study
+HTML and CSS webpage for coffee shops
